@@ -1,0 +1,7 @@
+speed_print.c:9:12:cmp_uint64	8	static
+cpucycles.c:4:10:cpucycles_overhead	8	static
+speed_print.c:32:6:print_results	48	static
+batch.c:31:1:main	3424	static
+batch.c:88:1:FindMarker	128	static
+batch.c:128:1:ReadHex	80	static
+batch.c:172:1:fprintBstr	48	static

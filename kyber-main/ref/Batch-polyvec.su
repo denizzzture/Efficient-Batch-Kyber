@@ -1,0 +1,9 @@
+polyvec.c:15:6:pqcrystals_kyber512_ref_polyvec_compress	32	static
+polyvec.c:89:6:pqcrystals_kyber512_ref_polyvec_decompress	24	static
+polyvec.c:139:6:pqcrystals_kyber512_ref_polyvec_tobytes	32	static
+polyvec.c:156:6:pqcrystals_kyber512_ref_polyvec_frombytes	32	static
+polyvec.c:170:6:pqcrystals_kyber512_ref_polyvec_ntt	16	static
+polyvec.c:185:6:pqcrystals_kyber512_ref_polyvec_invntt_tomont	16	static
+polyvec.c:202:6:pqcrystals_kyber512_ref_polyvec_basemul_acc_montgomery	560	static
+polyvec.c:225:6:pqcrystals_kyber512_ref_polyvec_reduce	16	static
+polyvec.c:241:6:pqcrystals_kyber512_ref_polyvec_add	32	static

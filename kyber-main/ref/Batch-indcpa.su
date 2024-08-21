@@ -1,0 +1,9 @@
+indcpa.c:12:6:poly_sum	8	static
+indcpa.c:24:5:mult_p4_str	28256	static
+indcpa.c:390:5:mult_p4	2224	static
+indcpa.c:529:5:mult_p2	5280	static
+indcpa.c:729:6:pqcrystals_kyber512_ref_gen_matrix	848	static
+indcpa.c:770:6:pqcrystals_kyber512_ref_indcpa_keypair	5264	static
+indcpa.c:822:6:pqcrystals_kyber512_ref_indcpa_enc	7824	static
+indcpa.c:862:6:indcpa_enc_batch	95408	static
+indcpa.c:926:6:pqcrystals_kyber512_ref_indcpa_dec	3152	static

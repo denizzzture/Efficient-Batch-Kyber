@@ -1,0 +1,4 @@
+kem.c:25:5:pqcrystals_kyber512_ref_keypair	32	static
+kem.c:53:5:pqcrystals_kyber512_ref_enc	208	static
+kem.c:75:5:crypto_kem_enc_batch	1392	static
+kem.c:122:5:pqcrystals_kyber512_ref_dec	992	static

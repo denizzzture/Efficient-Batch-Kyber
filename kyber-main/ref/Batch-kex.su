@@ -1,0 +1,6 @@
+kex.c:6:6:kex_uake_initA	32	static
+kex.c:12:6:kex_uake_sharedB	128	static
+kex.c:20:6:kex_uake_sharedA	112	static
+kex.c:30:6:kex_ake_initA	32	static
+kex.c:36:6:kex_ake_sharedB	176	static
+kex.c:45:6:kex_ake_sharedA	160	static

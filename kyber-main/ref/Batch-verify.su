@@ -1,0 +1,3 @@
+verify.c:16:5:pqcrystals_kyber512_ref_verify	16	static
+verify.c:40:6:pqcrystals_kyber512_ref_cmov	8	static
+verify.c:70:6:pqcrystals_kyber512_ref_cmov_int16	8	static

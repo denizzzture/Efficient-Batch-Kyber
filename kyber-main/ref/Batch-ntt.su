@@ -1,0 +1,3 @@
+ntt.c:80:6:pqcrystals_kyber512_ref_ntt	96	static
+ntt.c:106:6:pqcrystals_kyber512_ref_invntt	96	static
+ntt.c:139:6:pqcrystals_kyber512_ref_basemul	48	static
